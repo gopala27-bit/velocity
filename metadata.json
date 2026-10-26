@@ -1,0 +1,6 @@
+{
+  "name": "Velocity - Modern Internet Speed Test",
+  "description": "High-precision internet speed test web application measuring latency, jitter, download and upload throughput with real-time visual gauge and network analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
